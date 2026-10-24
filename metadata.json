@@ -1,0 +1,6 @@
+{
+  "name": "Campus Virtual Institucional",
+  "description": "Plataforma educativa integral para estudiantes, docentes, padres y administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
